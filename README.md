@@ -1,2 +1,2 @@
-# Woosh-Training
+# TechM-Training
 GitHub Code Operation/GitOps
